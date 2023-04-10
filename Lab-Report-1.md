@@ -35,11 +35,13 @@ Hey, future 15l students! This is a tutorial on how to log into a course-specifi
 
 
     Here are some commands to try:
-
-    cd ~
-    cd
-    ls -lat
-    ls -a
+      
+    ```
+    * cd ~
+    * cd
+    * ls -lat
+    * ls -a
+    ```
 
 
     Some commands may not output anything. For the output of the command in the picture, if you try the command at the top, the output should be similar to the picture below.
