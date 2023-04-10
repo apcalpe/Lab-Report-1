@@ -4,7 +4,7 @@ Hey, future 15l students! This is a tutorial on how to log into a course-specifi
 
 1) Go to the Visual Studio Code website and click on download at the top right of the screen. The website is in this link [VS Code Website](https://code.visualstudio.com/)
 
-![VS Code Download Site](Screenshot 2023-04-10 at 3.30.04 PM.png)
+![VS Code Download Site](https://github.com/apcalpe/Lab-report-1/blob/main/Screenshot%202023-04-10%20at%203.30.04%20PM.png)
 
 2) From the list of operating systems available, download the version for the one you are using. For me, my operating system is mac, so I clicked Download Mac.
 
@@ -34,11 +34,16 @@ Hey, future 15l students! This is a tutorial on how to log into a course-specifi
    ![Commands](Screenshot 2023-04-10 at 4.20.06 PM.png)
 
 
-Here are some commands to try:
+    Here are some commands to try:
 
-cd ~
-cd
-ls -lat
-ls -a
+    cd ~
+    cd
+    ls -lat
+    ls -a
+
+
+    Some commands may not output anything. For the output of the command in the picture, if you try the command at the top, the output should be similar to the picture below.
+    ![Command Output](Screenshot 2023-04-06 at 5.04.13 PM.png)
+
 
 
