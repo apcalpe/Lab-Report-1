@@ -18,11 +18,11 @@ Hey, future 15l students! This is a tutorial on how to log into a course-specifi
    For me, the terminal opened at the bottom of VS Code.
    ![Image](Screenshot%202023-04-10%20at%203.51.29%20PM.png)
 
-2) Then, in ther line of terminal, write "ssh cs15lsp23zz@ieng6.ucsd.edu" with the "zz" replaced with your own specifc account user name for cse 15l.
+2) Then, in ther line of terminal, write `ssh cs15lsp23zz@ieng6.ucsd.edu` with the `zz` replaced with your own specifc account user name for cse 15l.
    You'll be able to find this account name by going to your [Account](https://sdacs.ucsd.edu/~icc/index.php). Login, then you will have to change your password for your cse15l account.
    Make sure to change the passowrd for your cse15l account, whcih starts with cs15sp23, not your actual UCSD account.
    
-3) If this is the first time you type in ssh, you will get a message where at the end, they ask "Are you sure you want to continue connecting (yes/no/[fingerprint])?"
+3) If this is the first time you type in `ssh`, you will get a message where at the end, they ask `Are you sure you want to continue connecting (yes/no/[fingerprint])?`
    Type yes. It will then ask for the password. Type in your new password for your cse15l account. When typing it in, it may not look like anything is appearing but it is just hiding the password and actually is typing it.
    By the end, it should look similar to this picture.
    ![Image](Screenshot%202023-04-10%20at%204.00.18%20PM.png)
@@ -36,11 +36,10 @@ Hey, future 15l students! This is a tutorial on how to log into a course-specifi
 
     Here are some commands to try:
      
-    * cd ~ 
-    * cd
-    * ls -lat
-    * ls -a
-
+    * `cd ~` : Used to bring the user to the home directory
+    * `cd` : Used to bring the user to the home directory
+    * `ls -lat` : Used to list all files in order of when they were last edited
+    * `ls -a` : Used to list all files, even hidden files
 
     Some commands may not output anything. For the output of the command in the picture, if you try the command at the top, the output should be similar to the picture below.
     ![Image](Screenshot%202023-04-06%20at%205.04.13%20PM.png)
