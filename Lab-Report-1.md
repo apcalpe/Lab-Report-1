@@ -35,10 +35,10 @@ Hey, future 15l students! This is a tutorial on how to log into a course-specifi
    
    Here are some commands to try:
      
-   *`cd ~` : Used to bring the user to the home directory
-   *`cd` : Used to bring the user to the home directory
-   *`ls -lat` : Used to list all files in order of when they were last edited
-   *`ls -a` : Used to list all files, even hidden files
+   * `cd ~` : Used to bring the user to the home directory
+   * `cd` : Used to bring the user to the home directory
+   * `ls -lat` : Used to list all files in order of when they were last edited
+   * `ls -a` : Used to list all files, even hidden files
 
    Some commands may not output anything. For the output of the command in the picture, if you try the command at the top, the output should be similar to the picture below.
    ![Image](Screenshot%202023-04-06%20at%205.04.13%20PM.png)
