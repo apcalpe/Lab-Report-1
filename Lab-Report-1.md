@@ -43,6 +43,6 @@ Hey, future 15l students! This is a tutorial on how to log into a course-specifi
 
 
     Some commands may not output anything. For the output of the command in the picture, if you try the command at the top, the output should be similar to the picture below.
-    ![Command Output](Screenshot%202023-04-06%20at%205.04.13%20PM.png)
+    ![Image](Screenshot%202023-04-06%20at%205.04.13%20PM.png)
 
 
